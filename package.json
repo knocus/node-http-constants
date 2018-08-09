@@ -1,0 +1,12 @@
+{
+  "name": "node-http-constants",
+  "version": "0.0.4",
+  "description": "HTTP constants for Node.js in Typescript",
+  "main": "dist/index.js",
+  "typings":"dist/index.d.ts",
+  "repository": "https://github.com/knocus/node-http-constants.git",
+  "author": "Sahal Sajjad <sahalsajjad@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "types":"./lib/main.d.ts"
+}
