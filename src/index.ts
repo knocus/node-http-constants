@@ -4,6 +4,7 @@ export const methods =  {
     PUT:"PUT",
     DELETE:"DELETE",
     HEAD:"HEAD",
+    CONNECT:"CONNECT",
     OPTIONS:"OPTIONS",
     TRACE:"TRACE"
 }

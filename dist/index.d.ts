@@ -4,6 +4,7 @@ export declare const methods: {
     PUT: string;
     DELETE: string;
     HEAD: string;
+    CONNECT: string;
     OPTIONS: string;
     TRACE: string;
 };
