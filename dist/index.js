@@ -1,12 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.methods = {
-    GET: "GET",
-    POST: "POST",
-    PUT: "PUT",
-    DELETE: "DELETE",
-    HEAD: "HEAD",
-    CONNECT: "CONNECT",
-    OPTIONS: "OPTIONS",
-    TRACE: "TRACE"
-};
+var methods_1 = require("./methods");
+exports.methods = methods_1.methods;
+var headers_1 = require("./headers");
+exports.headers = headers_1.headers;
