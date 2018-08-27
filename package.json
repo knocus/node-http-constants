@@ -1,6 +1,6 @@
 {
   "name": "node-http-constants",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "HTTP constants for Node.js in Typescript",
   "main": "dist/index.js",
   "typings":"dist/index.d.ts",
